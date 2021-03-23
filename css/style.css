@@ -46,7 +46,7 @@
 #contact ul li a{
 	color: black;
 	font-family: cursive;
-	text-decoration:none;
+	text-decoration: underline;
 }	
 /*index css*/
 #index-body{
