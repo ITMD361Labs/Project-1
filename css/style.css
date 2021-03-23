@@ -35,12 +35,13 @@
 	right: 50%;
 	display: block;
 	margin: 0 10px;
+	color:black;
 }
 
 #main-navbar ul li a{
 	display:block;
 	padding: 10px 20px;
-	color: black;
+	color: white;
 	text-decoration:none;
 }	
 
