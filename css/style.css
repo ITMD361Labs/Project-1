@@ -25,7 +25,6 @@
 	padding: 50px;
 	margin: 20px 15px
 	background-color: #b3d9ff;
-	display: block;
 	text-align: center;	
 }
 #contact ul{
@@ -49,6 +48,10 @@
 	text-decoration: underline;
 }	
 #objective{
+	width: 100%;
+	padding: 50px;
+	margin: 20px 15px
+	background-color: #b3d9ff;
 	text-align:center;
 }
 /*index css*/
