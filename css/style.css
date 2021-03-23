@@ -65,13 +65,15 @@
 	margin-right:5%;
 	float: left;
 	background: #b3d9ff;
+	text-align: center;
 }
 #education{
-	
+	text-align:center;
 	float: right;
 	background 
 }
 #expertise-skills{
+	text-align:center;
 	width: 45%;
 	float: left;
 	background: #b3d9ff;
