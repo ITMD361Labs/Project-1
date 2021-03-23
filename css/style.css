@@ -22,8 +22,11 @@
 }
 
 #contact{
+	width: 100%;
+	padding: 50px;
+	margin: 20px 15px
 	background: #b3d9ff;
-	text-align: center;
+	text-align: center;	
 }
 #contact ul{
 	list-style-type: none;
