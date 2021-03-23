@@ -60,16 +60,21 @@
 	text-align:center;
 }
 
-#experience-education{
+#experience{
 	width: 45%;
 	margin-right:5%;
 	float: left;
-	background: white;
+	background: #b3d9ff;
+}
+#education{
+	width: 45%;
+	float: left;
+	background 
 }
 #expertise-skills{
 	width: 45%;
 	float: left;
-	background: white;
+	background: #b3d9ff;
 }
 /*index css*/
 #index-body{
