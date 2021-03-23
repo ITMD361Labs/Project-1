@@ -32,6 +32,7 @@
 	position: relative;
 	right: 50%;
 	display: block;
+	margin: 0 15px;
 }
 
 #main-navbar ul li a{
