@@ -31,7 +31,7 @@
 	list-style-type: none;
 	margin: 1em 0;
 	padding:0;
-	position: relative;
+	position: absolute;
 	left: 50%;
 	float: left;
 }
