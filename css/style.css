@@ -14,6 +14,11 @@
 	border-radius: 5em;
 	margin: 15px 10px;
 }
+
+#main-resume{
+	color: white;
+	font-family: 'Times New Roman', serif;
+}
 /*index css*/
 #index-body{
 	background-image: url('../images/background2.jpg');
