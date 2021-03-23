@@ -1,3 +1,8 @@
+/*resume css*/
+#resume-body{
+	background-image: url('../images/background.jpg');
+}
+
 #resume-header{
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#deefff+0,98bede+39,98bede+39,98bede+48,98bede+55,98bede+55,98bede+65,deefff+100 */
 	background: rgb(222,239,255); /* Old browsers */
@@ -8,6 +13,10 @@
 	padding: 0.5em;
 	border-radius: 5em;
 	margin: 15px 10px;
+}
+/*index css*/
+#index-body{
+	background-image: url('../images/background2.jpg');
 }
 
 #index-header{
@@ -21,6 +30,11 @@
 	margin: 0;
 }
 
+/*tvshows css*/
+#tvshows-body{
+	background-image: url('../images/background3.jpg');
+}
+
 #tvshows-header{
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4c4c4c+0,595959+0,666666+0,666666+0,474747+0,474747+0,474747+1,000000+52,111111+60,1c1c1c+64,2c2c2c+75,2c2c2c+75,2b2b2b+76,666666+100 */
 	background: rgb(76,76,76); /* Old browsers */
@@ -32,6 +46,8 @@
 	border-radius: 10em;
 	margin: 15px 10px;
 }
+
+/*css for all of the pages - navigation*/
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	font-size: 2em;
@@ -90,15 +106,8 @@
 	border-radius: 10px;
 }
 
-#resume-body{
-	background-image: url('../images/background.jpg');
-}
 
-#index-body{
-	background-image: url('../images/background2.jpg');
-}
 
-#tvshows-body{
-	background-image: url('../images/background3.jpg');
-}
+
+
 
