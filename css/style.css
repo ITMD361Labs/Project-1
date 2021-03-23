@@ -10,6 +10,10 @@
 	margin: 15px 10px;
 }
 
+#index-header{
+	padding: 0.2em;
+	margin: 0;
+}
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	font-size: 2em;
