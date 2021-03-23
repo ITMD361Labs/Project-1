@@ -42,7 +42,9 @@
 }	
 
 #main-navbar ul li a:hover{
-	background-color: #000;
+	border-radius: 10px;
+	color: white;
+	background-color: purple;
 }
 
 #onpage{
