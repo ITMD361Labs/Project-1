@@ -19,6 +19,11 @@
 	color: white;
 	font-family: 'Times New Roman', serif;
 }
+
+#resume-title{
+	text-align: center;
+	display: block;
+}
 /*index css*/
 #index-body{
 	background-image: url('../images/background2.jpg');
