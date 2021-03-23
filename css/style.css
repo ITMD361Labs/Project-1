@@ -36,13 +36,13 @@
 	margin: 1em 0;
 	padding:0;
 	position: relative;
-	left: 10%;
+	left: 50%;
 	float: left;
 }
 #contact ul li{
 	float: left;
 	position: relative;
-	right: 10%;
+	right: 50%;
 	margin: 0 10px;
 }
 
@@ -63,20 +63,23 @@
 }
 
 #experience{
-	width: 45%;
-	margin-right:10%;
-	float: left;
-	background: #b3d9ff;
 	text-align: center;
+	margin: 0 2.5%;
+	width: 45%;
+	float: left;
+	background: #b3d9ff;	
 }
 #education{
 	text-align:center;
-	float: right;
+	margin: 0 0 0 2.5%;
+	width: 22.5%;
+	float: left;
 	background 
 }
 #expertise-skills{
 	text-align:center;
-	width: 45%;
+	margin: 0 2.5% 0 0;
+	width: 22.5%;
 	float: left;
 	background: #b3d9ff;
 }
