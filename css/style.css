@@ -61,6 +61,13 @@
 	background: #b3d9ff;
 	text-align:center;
 }
+#education{
+	text-align:center;
+	margin: 0 0 0 2.5%;
+	width: 22.5%;
+	float: left;
+	background 
+}
 
 #experience{
 	text-align: center;
@@ -69,13 +76,7 @@
 	float: left;
 	background: #b3d9ff;	
 }
-#education{
-	text-align:center;
-	margin: 0 0 0 2.5%;
-	width: 22.5%;
-	float: left;
-	background 
-}
+
 #expertise-skills{
 	text-align:center;
 	margin: 0 2.5% 0 0;
