@@ -55,6 +55,18 @@
 	background-color: #b3d9ff;
 	text-align:center;
 }
+
+#experience-education{
+	width: 45%;
+	margin-right:5%;
+	float: left;
+	background: white;
+}
+#expertise-skills{
+	width: 45%;
+	float: left;
+	background: white;
+}
 /*index css*/
 #index-body{
 	background-image: url('../images/background2.jpg');
