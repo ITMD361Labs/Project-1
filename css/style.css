@@ -25,14 +25,14 @@
 	margin: 1em 0;
 	padding:0;
 	position: relative;
-	left: 90%;
+	left: 10%;
 	float: left;
 }
 
 #main-navbar ul li{
 	float: left;
 	position: relative;
-	right: 10%;
+	right: 90%;
 	display: block;
 	margin: 0 10px;
 }
