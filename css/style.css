@@ -25,6 +25,7 @@
 	padding: 50px;
 	margin: 20px 15px
 	background-color: #b3d9ff;
+	display: block;
 	text-align: center;	
 }
 #contact ul{
@@ -39,7 +40,6 @@
 	float: left;
 	position: relative;
 	right: 50%;
-	display: block;
 	margin: 0 10px;
 }
 
