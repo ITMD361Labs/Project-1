@@ -49,10 +49,10 @@
 	text-decoration: underline;
 }	
 #objective{
-	width: 100%;
+	width: 90%;
 	padding: 50px;
-	margin: 20px 15px
-	background-color: #b3d9ff;
+	margin-right: 10%;
+	background: #b3d9ff;
 	text-align:center;
 }
 
