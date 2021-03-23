@@ -38,6 +38,20 @@
 	left: 50%;
 	float: left;
 }
+#contact ul li{
+	float: left;
+	position: relative;
+	right: 50%;
+	display: block;
+	margin: 0 10px;
+}
+
+#contact ul li a{
+	display:block;
+	padding: 10px 20px;
+	color: white;
+	text-decoration:none;
+}	
 /*index css*/
 #index-body{
 	background-image: url('../images/background2.jpg');
