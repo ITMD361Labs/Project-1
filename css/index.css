@@ -31,7 +31,9 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfd2f7', endColorstr='#8892ea',GradientType=0 ); /* IE6-9 */
 }
 #games img{
-	float: left;
+	float: right;
+	width: 150px;
+	height: 150px;
 }
 
 #main-navbar{
