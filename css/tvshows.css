@@ -151,10 +151,22 @@
 	float: left;
 	width: 70%;
 	margin: 10px 15% 10px 15%;
-	padding: 0px;
+	padding: 5px;
 	border-radius: 10px;
 	background: black;
 	overflow: hidden;
+}
+#game ul{
+	list-style-type: none;
+}
+#game ul li{
+	text-align:center;
+	width: 70%;
+	margin: 0 15% 10% 15%;
+	padding 5px;
+	border-radius: 10px;
+	background: black;
+	overflow:hidden;
 }
 #game img{
 	width: 500px;
