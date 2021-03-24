@@ -63,20 +63,11 @@
 	background: #b3d9ff;
 	text-align:center;
 }
-#education{
-	text-align:center;
-	margin: 0 0 0 2.5%;
-	width: 22.5%;
-	float: left;
-	padding: 0 10px 0 10px;
-	background:#b3d9ff;
-	overflow: hidden;
 
-}
 
 #experience{
 	text-align: center;
-	margin: 0 2.5%;
+	margin: 0 5%;
 	width: 45%;
 	float: left;
 	padding: 0 10px 0 0;
@@ -101,26 +92,26 @@
 	text-decoration: underline;
 }
 
-#expertise-skills{
+#second-column{
 	text-align:center;
-	margin: 0 2.5% 0 0;
-	width: 22.5%;
+	margin: 0 5% 0 0;
+	width: 45%;
 	float: left;
 	padding: 0 10px 0 0;
 	background: #b3d9ff;
 	overflow: hidden;
 }
-#expertise-skills p{
+#second-column p{
 	text-align:left;
 	font-weight: bold;
 	padding: 0 0 0 10px;
 }
 
-#expertise-skills ul li{
+#second-column ul li{
 	text-align: left;
 	padding: 0 0 0 20px;
 }
-#expertise-skills ul li a{
+#second-column ul li a{
 	color: black;
 	font-family: cursive;
 	text-decoration: underline;
