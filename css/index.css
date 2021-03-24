@@ -22,7 +22,7 @@
 	margin: 5%;
 	text-align: center;	
 	border-radius: 20px;
-	box-shadow: 0 4px 8px 0 white;
+	box-shadow: 4px white;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cfd2f7+0,737fe7+24,0a1ed6+50,5361e1+79,8892ea+100 */
 	background: rgb(207,210,247); /* Old browsers */
 	background: -moz-linear-gradient(top,  rgba(207,210,247,1) 0%, rgba(115,127,231,1) 24%, rgba(10,30,214,1) 50%, rgba(83,97,225,1) 79%, rgba(136,146,234,1) 100%); /* FF3.6-15 */
