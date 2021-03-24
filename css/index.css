@@ -94,7 +94,7 @@
 	color: white;
 }
 #games iframe{
-	text-align:center;
+	float:left;
 	width:90%;
 	height: auto;
 	margin:5%;
