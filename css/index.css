@@ -58,17 +58,17 @@
 	width: 440px;
 	height: 200px;
 	margin: 0 0 0 5%;
-	width: 40%;
+	width: 50%;
 	float: left;
 	padding: 0 10px 0 0;
-	position: absolute;
+	
 	
 } 
 
 #games .left-column{
 	text-align: center;
 	margin: 0 5%;
-	width: 40%;
+	width: 30%;
 	float: left;
 	padding: 0 10px 0 0;
 	background: #009900;
