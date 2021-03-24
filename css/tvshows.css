@@ -104,8 +104,6 @@
 }
 
 #movies iframe{
-	width: 70%;
-	height:auto;
-	margin:5% 15% 5% 15%;
+	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
 }
