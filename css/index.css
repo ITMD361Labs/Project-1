@@ -35,8 +35,9 @@
 /*float images and change sizes*/
 #games img{
 	float: right;
-	width: 400px;
-	height: 250px;
+	width: 450px;
+	height: 200px;
+	
 }
 
 #games h2{
