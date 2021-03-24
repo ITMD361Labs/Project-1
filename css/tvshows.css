@@ -169,7 +169,14 @@
 #game ul li {
 	text-align: center;
 	font-size: 1.5em;
-	
+}
+#game ul li a{
+	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
+	color:red;
+}
+#game ul li a:hover{
+	color: white;
+	background: #404040;
 }
 #game img{
 	width: 500px;
