@@ -262,6 +262,7 @@
 #series ul li a{
 	color: white;
 	font-size:1.5em;
+	text-decoration: none;
 }
 #series ul li a:hover{
 	color:white;
