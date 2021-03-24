@@ -115,7 +115,7 @@
 }
 #movies .imagetop{
 	float: left;
-	width 60%;
+	width: 60%;
 	margin:0% 20% 0% 20%;
 	box-shadow: 0 4px 4px 0 white;
 }
