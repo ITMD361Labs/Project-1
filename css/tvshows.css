@@ -312,7 +312,7 @@
 	background: #404040;
 }
 #murder .cast{
-	width: 50%;
+	width: 40%;
 	height: auto;
 	float: right;
 	margin: 0 5% 5% 5%;
@@ -321,7 +321,7 @@
 #series2 p{
 	width: 30%;
 	float: left;
-	margin: 5% 5% 0 10%;
+	margin: 5% 5% 0 5%;
 	font-size: 2em;
 	padding: 10px;
 	border-radius: 10px;
