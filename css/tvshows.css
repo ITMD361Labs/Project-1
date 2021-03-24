@@ -275,8 +275,6 @@
 	margin: 5% 0 5% 0;
 	padding: 10px 0 10px 0;
 	background: black;
-	
-	
 }
 
 #murder p{
@@ -364,6 +362,15 @@
 	float: left;
 	margin: 0 5% 5% 5%;
 	border: 5px solid black;
+}
+#series2 h3{
+	float: right;
+	text-align: center;
+	font-size: 2em;
+	width: 100%;
+	margin: 5% 0 5% 0;
+	padding: 10px 0 10px 0;
+	background: black;
 }
 #sherlock p{
 	font-size: 2em;
