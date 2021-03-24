@@ -158,15 +158,16 @@
 }
 #game ul{
 	list-style-type: none;
-}
-#game ul li{
-	text-align:center;
 	width: 70%;
 	margin: 0 15% 10% 15%;
 	padding 5px;
 	border-radius: 10px;
 	background: black;
 	overflow:hidden;
+}
+#game ul li{
+	text-align:center;
+	
 }
 #game img{
 	width: 500px;
