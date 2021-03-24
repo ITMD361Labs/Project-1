@@ -314,13 +314,13 @@
 	width: 40%;
 	height: auto;
 	float: right;
-	margin: 0 5% 5% 5%;
+	margin: 0 5% 5% 0;
 	border: 5px solid black;
 }
 #series2 p{
 	width: 35%;
 	float: left;
-	margin: 10% 5% 0 5%;
+	margin: 10% 5% 0 10%;
 	font-size: 2em;
 	padding: 10px;
 	border-radius: 10px;
@@ -334,7 +334,7 @@
 #series2 ul{
 	width: 35%;
 	float: left;
-	margin: 0 5% 0 5%;
+	margin: 0 5% 0 10%;
 	padding: 10px;
 	text-align:center;
 	border-radius: 10px 10px 0 0;
@@ -361,7 +361,7 @@
 	width: 40%;
 	height: auto;
 	float: right;
-	margin: 0 5% 5% 5%;
+	margin: 0 5% 5% 0;
 	border: 5px solid black;
 }
 #series2 h3{
