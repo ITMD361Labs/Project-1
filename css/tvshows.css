@@ -152,7 +152,8 @@
 	width: 60%;
 	margin: 10px 20% 10px 20%;
 	padding: 5px;
-	background: #b3d9ff;
+	border-radius: 10px;
+	background: black;
 	overflow: hidden;
 }
 #game img{
