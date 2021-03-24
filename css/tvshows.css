@@ -228,7 +228,7 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
 }
 #series .char{
-	width: 40%;
+	width: 35%;
 	float: left;
 	margin: 5% 5% 0 10%;
 	font-size: 2em;
