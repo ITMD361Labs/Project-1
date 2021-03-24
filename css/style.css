@@ -82,9 +82,17 @@
 	float: left;
 	background: #b3d9ff;	
 }
+#experience p{
+	text-aling:left;
+	font-weight: bold;
+}
 #experience ul{
 	list-style-type: none;
-
+}
+#experience ul li a{
+	color: black;
+	font-family: cursive;
+	text-decoration: underline;
 }
 #expertise-skills{
 	text-align:center;
