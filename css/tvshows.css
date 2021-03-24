@@ -146,8 +146,7 @@
 	box-shadow: 0 4px 4px 0 white;
 }
 
-#game .sum{
-	list-style-type: none;
+#game p{
 	text-align: center;
 	float: left;
 	width: 70%;
