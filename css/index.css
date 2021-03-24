@@ -30,6 +30,9 @@
 	background: linear-gradient(to bottom,  rgba(207,210,247,1) 0%,rgba(115,127,231,1) 24%,rgba(10,30,214,1) 50%,rgba(83,97,225,1) 79%,rgba(136,146,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfd2f7', endColorstr='#8892ea',GradientType=0 ); /* IE6-9 */
 }
+#games img{
+	float: left;
+}
 
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
