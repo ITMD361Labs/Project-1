@@ -312,10 +312,10 @@
 	background: #404040;
 }
 #murder .cast{
-	width: 500px;
-	height: 300px;
+	width: 80%;
+	height: auto;
 	float: right;
-	margin: 0 5% 5% 5%;
+	margin: 0 10% 5% 10%;
 	border: 5px solid black;
 }
 
