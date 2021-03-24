@@ -90,7 +90,7 @@
 	text-align:center;
 	margin: 0 2.5% 0 0;
 	width: 22.5%;
-	float: right;
+	float: left;
 	background: #b3d9ff;
 }
 /*index css*/
@@ -134,7 +134,7 @@
 }
 
 #navbar-container{
-	width: 50%
+	width: 50%;
 	float: left;
 	position: relative;
 }
