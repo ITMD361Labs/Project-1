@@ -64,7 +64,7 @@
 	text-align:center;
 }
 
-
+/*first column css*/
 #experience{
 	text-align: center;
 	margin: 0 5%;
@@ -72,6 +72,7 @@
 	float: left;
 	padding: 0 10px 0 0;
 	background: #b3d9ff;
+	border-radius: 20px;
 	overflow: hidden;
 }
 #experience p{
@@ -95,6 +96,7 @@
 	text-decoration: underline;
 }
 
+/*second column css*/
 #second-column{
 	text-align:center;
 	margin: 0 0 0 5%;
@@ -102,6 +104,7 @@
 	float: left;
 	padding: 0 10px 0 0;
 	background: #b3d9ff;
+	border-radius: 20px;
 	overflow: hidden;
 }
 
