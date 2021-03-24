@@ -160,6 +160,8 @@
 #game img{
 	width: 400px;
 	height: 600px;
+}
+#game img{
 	width: 60%;
 	height: auto;
 	margin: 0 5% 5% 5%;
