@@ -47,6 +47,14 @@
 	background: #2d2d86;
 	color: white;
 }
+
+#games .basic{
+	text-align: center;
+	width: 100%;
+	padding:5px 0px 10px 0;
+	background: #6600cc;
+	color: white;
+}
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	font-size: 2em;
