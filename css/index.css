@@ -20,9 +20,14 @@
 	width: 90%;
 	padding: 10px;
 	margin: 5%;
-	background: #b3d9ff;
 	text-align: center;	
 	border-radius: 20px;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cfd2f7+0,737fe7+24,0a1ed6+50,5361e1+79,8892ea+100 */
+	background: rgb(207,210,247); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(207,210,247,1) 0%, rgba(115,127,231,1) 24%, rgba(10,30,214,1) 50%, rgba(83,97,225,1) 79%, rgba(136,146,234,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(207,210,247,1) 0%,rgba(115,127,231,1) 24%,rgba(10,30,214,1) 50%,rgba(83,97,225,1) 79%,rgba(136,146,234,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(207,210,247,1) 0%,rgba(115,127,231,1) 24%,rgba(10,30,214,1) 50%,rgba(83,97,225,1) 79%,rgba(136,146,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfd2f7', endColorstr='#8892ea',GradientType=0 ); /* IE6-9 */
 }
 
 #main-navbar{
