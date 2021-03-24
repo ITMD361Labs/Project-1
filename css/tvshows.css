@@ -147,7 +147,7 @@
 }
 
 #movies .info p{
-	width: 30%;
+	width: 20%;
 	margin: 0 5% 5% 0;
 	float: left;
 	font-size: 2em;
@@ -160,7 +160,7 @@
 #game img{
 	width: 60%;
 	height: auto;
-	margin: 0 5% 5% 3%;
+	margin: 0 5% 5% 5%;
 	float: left;
 }
 #game p{
