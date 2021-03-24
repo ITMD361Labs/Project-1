@@ -359,7 +359,7 @@
 #series2 img{
 	width: 40%;
 	height: auto;
-	float: left;
+	float: right;
 	margin: 0 5% 5% 5%;
 	border: 5px solid black;
 }
