@@ -88,16 +88,16 @@
 #experience ul{
 	list-style-type: none;
 }
+#experience ul li{
+	text-align: left;
+	padding: 0 0 0 20px;
+}
 #experience ul li a{
 	color: black;
 	font-family: cursive;
 	text-decoration: underline;
 }
-#experience ul li strong{
-	text-align:left;
-	font-weight: bold;
-	padding: 0 0 0 10px;
-}
+
 #expertise-skills{
 	text-align:center;
 	margin: 0 2.5% 0 0;
