@@ -146,6 +146,22 @@
 	box-shadow: 0 4px 4px 0 white;
 }
 
+#movies .info p{
+	width: 30%;
+	margin: 0 5% 5% 0;
+	font-size: 2em;
+	padding: 5px;
+	border-radius: 10px 10px 0 0;
+	background: black;
+	overflow: hidden;
+}
+
+#game img{
+	width: 60%;
+	height: auto;
+	margin: 0 5% 5% 5%;
+	float: left;
+}
 #game p{
 	font-size: 2em;
 	text-align: center;
@@ -178,11 +194,7 @@
 	color: white;
 	background: #404040;
 }
-#game img{
-	width: 500px;
-	height: 700px;
-	float: left;
-}
+
 
 #murder p{
 	font-size: 2em;
