@@ -118,6 +118,11 @@
 #par .desc{
 	font-size: 1.5em;
 }
+#par a{
+	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
+	color: #e65c00;
+	font-size: 20px;
+}
 
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
