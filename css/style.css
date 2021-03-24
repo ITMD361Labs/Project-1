@@ -85,6 +85,7 @@
 #experience p{
 	text-align:left;
 	font-weight: bold;
+	padding: 0 0 0 10px;
 }
 #experience ul{
 	list-style-type: none;
