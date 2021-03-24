@@ -79,9 +79,9 @@
 	font-weight: bold;
 	padding: 0 0 0 10px;
 }
-/*#experience ul{
-	list-style-type: none;
-}*/
+#experience ul{
+	list-style-type: upper-roman;
+}
 #experience ul li.job{
 	list-style-type:none;
 	text-align: left;
