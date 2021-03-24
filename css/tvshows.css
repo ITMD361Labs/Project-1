@@ -145,3 +145,20 @@
 	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
 }
+
+#game .sum{
+	float: left;
+	width: 30%;
+	margin: 0 5% 0 0;
+	padding: 0 10px 0 0;
+	background: #b3d9ff;
+	border-radius: 20px;
+	overflow: hidden;
+}
+
+#game img{
+	float: left;
+	width 60%;
+	margin: 0 5%;
+	
+}
