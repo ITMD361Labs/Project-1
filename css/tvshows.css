@@ -278,6 +278,8 @@
 	background: black;
 }
 
+/*how to get away with murder css*/
+
 #murder p{
 	font-size: 2em;
 	text-align: center;
@@ -373,6 +375,8 @@
 	padding: 10px 0 10px 0;
 	background: black;
 }
+
+/*sherlock css*/
 #sherlock p{
 	font-size: 2em;
 	text-align: center;
@@ -405,3 +409,19 @@
 	color: white;
 	background: #404040;
 }
+
+#sherlock img{
+	float: left;
+	width: 40%;
+	height:auto;
+	margin: 0 5% 5% 5%;
+	border: 5px solid black;
+}
+#series3 img{
+	float:left;
+	width: 40%;
+	height: auto;
+	margin: 0 5% 5% 0;
+	border: 5px solid black;
+}
+
