@@ -183,3 +183,69 @@
 	height: 700px;
 	float: right;
 }
+
+#murder p{
+	font-size: 1.5em;
+	text-align: center;
+	float: left;
+	width: 70%;
+	margin: 5% 15% 0 15%;
+	padding: 5px;
+	border-radius: 10px 10px 0 0;
+	background: black;
+	overflow: hidden;
+}
+#murder ul{
+	list-style-type: none;
+	width: 70%;
+	margin: 0 15% 10% 15%;
+	padding: 5px;
+	border-radius: 0px 0px 10px 10px;
+	background: black;
+	overflow:hidden;
+}
+#murder ul li {
+	text-align: center;
+	font-size: 1.5em;
+}
+#murder ul li a{
+	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
+	color:red;
+}
+#murder ul li a:hover{
+	color: white;
+	background: #404040;
+}
+
+#sherlock p{
+	font-size: 1.5em;
+	text-align: center;
+	float: left;
+	width: 70%;
+	margin: 5% 15% 0 15%;
+	padding: 5px;
+	border-radius: 10px 10px 0 0;
+	background: black;
+	overflow: hidden;
+}
+#sherlock ul{
+	list-style-type: none;
+	width: 70%;
+	margin: 0 15% 10% 15%;
+	padding: 5px;
+	border-radius: 0px 0px 10px 10px;
+	background: black;
+	overflow:hidden;
+}
+#sherlock ul li {
+	text-align: center;
+	font-size: 1.5em;
+}
+#sherlock ul li a{
+	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
+	color:red;
+}
+#sherlock ul li a:hover{
+	color: white;
+	background: #404040;
+}
