@@ -93,6 +93,13 @@
 	list-style-type: square;
 	color: white;
 }
+#games iframe{
+	text-align:center;
+	width:90%;
+	box-shadow: 0 4px 4px 0 white;
+}
+
+
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	font-size: 2em;
