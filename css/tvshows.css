@@ -103,6 +103,16 @@
 	color: #ff471a;
 }
 
+#date{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 5px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	background: #6600cc;
+	color: white;
+}
+
 #movies iframe{
 	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
