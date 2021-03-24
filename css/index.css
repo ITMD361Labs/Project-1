@@ -182,7 +182,7 @@
  	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4b7ed', endColorstr='#c4b7ed',GradientType=0 ); /* IE6-9 */ 
 }
 
-#games .par{
+#par{
 	width:90%;
  	margin: 5%;
  	padding:5px;
@@ -198,16 +198,16 @@
  	background: linear-gradient(to bottom,  rgba(196,183,237,1) 0%,rgba(69,34,226,1) 0%,rgba(140,113,239,1) 52%,rgba(69,34,226,1) 100%,rgba(69,34,226,1) 100%,rgba(69,34,226,1) 100%,rgba(196,183,237,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
  	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4b7ed', endColorstr='#c4b7ed',GradientType=0 ); /* IE6-9 */ 
 }
-#games .par .desc{
+#par .desc{
 	font-size: 1.3em;
 	font-weight: bold;
 }
-#games .par a{
+#par a{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	color: #e65c00;
 	font-size: 20px;
 }
-#games .par a:hover{
+#par a:hover{
 	color: white;
 	background: blue;
 }
