@@ -70,6 +70,8 @@
 	float: left;
 	padding: 0 10px 0 10px;
 	background:#b3d9ff;
+	overflow: hidden;
+
 }
 
 #experience{
@@ -78,7 +80,8 @@
 	width: 45%;
 	float: left;
 	padding: 0 10px 0 0;
-	background: #b3d9ff;	
+	background: #b3d9ff;
+	overflow: hidden;
 }
 #experience p{
 	text-align:left;
@@ -105,6 +108,7 @@
 	float: left;
 	padding: 0 10px 0 0;
 	background: #b3d9ff;
+	overflow: hidden;
 }
 #expertise-skills p{
 	text-align:left;
