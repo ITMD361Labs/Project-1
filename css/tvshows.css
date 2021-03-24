@@ -166,7 +166,7 @@
 	background: black;
 	overflow:hidden;
 }
-#game ul li a{
+#game ul li {
 	text-align: center;
 	font-size: 1.5em;
 	
