@@ -207,6 +207,7 @@
 	height: 300px;
 	float: right;
 	margin: 0 5% 5% 5%;
+	border: black solid;
 }
 
 #series .web{
@@ -263,7 +264,13 @@
 	color:white;
 	background: black;
 }
-
+#series h3{
+	width: 100%;
+	padding: 10px 0 10px 0;
+	background: black;
+	
+	
+}
 
 #murder p{
 	font-size: 2em;
