@@ -96,8 +96,8 @@
 
 #games .par{
 	width:90%;
-	margin: 5%;
-	padding:0;
+	margin: 5%
+	padding:10px 5px 10px 5px;
 	text-align:center;
 	box-shadow: 0 4px 4px 0 white;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c4b7ed+0,4522e2+0,8c71ef+52,4522e2+100,4522e2+100,4522e2+100,c4b7ed+100 */
