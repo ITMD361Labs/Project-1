@@ -79,7 +79,7 @@
 	font-weight: bold;
 	padding: 0 0 0 10px;
 }
-#experience ul{
+#experience ul.job{
 	list-style-type: none;
 }
 #experience ul li{
