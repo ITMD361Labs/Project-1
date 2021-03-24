@@ -2,6 +2,7 @@
 #index-body{
 	background-image: url('../images/background2.jpg');
 	font-family: 'Kiwi Maru', serif;
+	font-size: 1.1em;
 	color: white;
 }
 
@@ -38,6 +39,9 @@
 	height: 250px;
 }
 
+#games h2{
+	font-size: 
+}
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	font-size: 2em;
