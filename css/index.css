@@ -172,6 +172,8 @@
  	text-align:center;
  	color: #f2f2f2;
  	box-shadow: 0 4px 4px 0 white;
+ 	font-size: 30%;
+	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
  	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c4b7ed+0,4522e2+0,8c71ef+52,4522e2+100,4522e2+100,4522e2+100,c4b7ed+100 */
  	background: rgb(196,183,237); /* Old browsers */
  	background: -moz-linear-gradient(top,  rgba(196,183,237,1) 0%, rgba(69,34,226,1) 0%, rgba(140,113,239,1) 52%, rgba(69,34,226,1) 100%, rgba(69,34,226,1) 100%, rgba(69,34,226,1) 100%, rgba(196,183,237,1) 100%); /* FF3.6-15 */
