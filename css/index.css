@@ -54,7 +54,6 @@
 
 /*float images and change sizes*/
 #games img{
-	float: right;
 	width: 440px;
 	height: 200px;
 	margin: 0 0 0 10%;
