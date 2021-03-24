@@ -351,7 +351,7 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
 }
 #series2 ul li:hover{
-	color: white;
+	text-color: white;
 	background: black;
 }
 #series2 img{
