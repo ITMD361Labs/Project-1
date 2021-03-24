@@ -62,7 +62,7 @@
 } 
 
 #games .left-column{
-	text-align: center;
+	text-align: left;
 	margin: 5% 5% 0 5%;
 	width: 40%;
 	float: left;
