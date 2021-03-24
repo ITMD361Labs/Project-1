@@ -101,6 +101,9 @@
 	background: #b3d9ff;
 	overflow: hidden;
 }
+#second-column.schools{
+	list-style-type: none;
+}
 #second-column p{
 	text-align:left;
 	font-weight: bold;
