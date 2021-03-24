@@ -79,7 +79,10 @@
 	float: left;
 	background: #b3d9ff;	
 }
+#experience ul{
+	list-style-type: none;
 
+}
 #expertise-skills{
 	text-align:center;
 	margin: 0 2.5% 0 0;
