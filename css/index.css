@@ -58,7 +58,7 @@
 	height: auto;
 	margin: 5% 0 0 5%;
 	float: left;
-		
+	box-shadow: 0 4px 4px 0 white;
 } 
 
 #games .left-column{
@@ -92,9 +92,6 @@
 #games .left-column ul li{
 	list-style-type: square;
 	color: white;
-}
-
-
 }
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
