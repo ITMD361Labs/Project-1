@@ -147,7 +147,7 @@
 }
 
 #game p{
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align: center;
 	float: left;
 	width: 70%;
@@ -185,7 +185,7 @@
 }
 
 #murder p{
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align: center;
 	float: left;
 	width: 70%;
@@ -218,7 +218,7 @@
 }
 
 #sherlock p{
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align: center;
 	float: left;
 	width: 70%;
