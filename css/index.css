@@ -40,7 +40,10 @@
 }
 
 #games h2{
-	font-size: 
+	text-align: center;
+	width: 100%;
+	padding:10px 0px 10px 0;
+	color: black;
 }
 #main-navbar{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
