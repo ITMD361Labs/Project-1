@@ -141,6 +141,8 @@
 }
 
 #movies iframe{
+	width: 400px;
+	height: 200px;
 	width: 50%;
 	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
