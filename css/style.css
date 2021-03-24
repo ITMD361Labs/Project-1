@@ -80,7 +80,7 @@
 	padding: 0 0 0 10px;
 }
 #experience ul{
-	list-style-type: upper-roman;
+	list-style-type: square;
 }
 #experience ul li.job{
 	list-style-type:none;
