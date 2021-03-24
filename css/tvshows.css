@@ -134,10 +134,11 @@
 	color: white;
 }
 #movies .imagetop{
+	text-align: center;
 	float: left;
 	width: 60%;
-	margin:0% 20% 0% 20%;
-	box-shadow: 0 4px 4px 0 white;
+	margin: 10px 20% 10px 20%;
+	padding: 5px;
 }
 
 #movies iframe{
@@ -158,10 +159,4 @@
 #game img{
 	width: 500px;
 	height: 700px;
-}
-#game img{
-	float: left;
-	width 50%;
-	margin: 0 0 0 5%;
-	
 }
