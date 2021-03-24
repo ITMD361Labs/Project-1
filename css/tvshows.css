@@ -103,12 +103,44 @@
 	color: #ff471a;
 }
 
-#desc{
+#date1{
 	text-align: center;
 	width: 100%;
-	padding:5px 0 5px 0;
+	padding:5px 0 10px 0;
 	margin-top: 0%;
 	margin-bottom: 0%;
+	font-size: 1.2em;
 	background: black;
 	color: white;
+}
+#date2{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 10px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 1.2em;
+	background: black;
+	color: white;
+}
+#date3{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 10px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 1.2em;
+	background: black;
+	color: white;
+}
+#movies .imagetop{
+	float: left;
+	width: 60%;
+	margin:0% 20% 0% 20%;
+	box-shadow: 0 4px 4px 0 white;
+}
+
+#movies iframe{
+	margin:5% 25% 5% 25%;
+	box-shadow: 0 4px 4px 0 white;
 }
