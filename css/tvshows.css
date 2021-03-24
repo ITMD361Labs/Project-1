@@ -166,8 +166,8 @@
 	background: black;
 	overflow:hidden;
 }
-#game ul li{
-	text-align:center;
+#game ul li a{
+	
 	
 }
 #game img{
