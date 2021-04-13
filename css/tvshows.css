@@ -175,44 +175,11 @@
 	
 }
 #thrones-container .info img{
-    width: 300px;
+    width: 40%;
 	height: 300px;
-	float: right;
-	margin: 0 5% 5% 5%;
+	margin: 2% 5% 2% 10%;
 	border: 5px solid black;
 }
-
-#date2{
-	text-align: center;
-	width: 100%;
-	padding:5px 0 10px 0;
-	margin-top: 0%;
-	margin-bottom: 0%;
-	font-size: 1.2em;
-	background: black;
-	color: white;
-}
-#date3{
-	text-align: center;
-	width: 100%;
-	padding:5px 0 10px 0;
-	margin-top: 0%;
-	margin-bottom: 0%;
-	font-size: 1.2em;
-	background: black;
-	color: white;
-}
-
-
-
-#movies iframe{
-	width: 80%;
-	height: 400px;
-	margin: 0% 10% 0% 10%;
-	box-shadow: 0 4px 4px 0 white;
-}
-
-
 
 #series img{
 	width: 300px;
@@ -286,6 +253,38 @@
 	padding: 10px 0 10px 0;
 	background: black;
 }
+
+#date2{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 10px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 1.2em;
+	background: black;
+	color: white;
+}
+#date3{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 10px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 1.2em;
+	background: black;
+	color: white;
+}
+
+
+
+#movies iframe{
+	width: 80%;
+	height: 400px;
+	margin: 0% 10% 0% 10%;
+	box-shadow: 0 4px 4px 0 white;
+}
+
+
 
 /*how to get away with murder css*/
 
