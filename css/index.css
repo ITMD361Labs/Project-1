@@ -240,8 +240,8 @@
 }
 /*css for the fortnite description*/
 #par2{
-	width:90%;
- 	margin: 5%;
+	width:40%;
+ 	margin: 0% 5% 0% 5%;
  	padding:5px;
  	float: left;
  	border-radius: 20px;
@@ -271,8 +271,8 @@
 
 /*css for the csgo description*/
 #par3{
-	width:90%;
- 	margin: 5%;
+	width:40%;
+ 	margin: 0% 5% 0% 5%;
  	padding:5px;
  	float: left;
  	border-radius: 20px;
@@ -302,8 +302,8 @@
 
 /*css for the rocket description*/
 #par4{
-	width:90%;
- 	margin: 5%;
+	width:40%;
+ 	margin: 0% 5% 0% 5%;
  	padding:5px;
  	float: left;
  	border-radius: 20px;
