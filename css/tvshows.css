@@ -399,9 +399,9 @@
 
 /*sherlock css*/
 #sherlock-container{
-	background-color: #2f0e05;
+	background-color: #495153;
 	margin: 0% 10% 0% 10%;
-	border: 5px solid #b81611;
+	border: 5px solid #010101;
 }
 #sherlock-container p{
 	text-align: center;
@@ -410,7 +410,7 @@
 	margin-top: 0%;
 	margin-bottom: 0%;
 	font-size: 1.2em;
-	background: #fff3e9;
+	background: #bfcac4;
 	color: black;
 }
 #sherlock-container img{
@@ -429,7 +429,7 @@
 	margin-top: 0%;
 	margin-bottom: 0%;
 	color:black;
-	background: #fff3e9;
+	background: #bfcac4;
 	overflow: hidden;
 }
 #sherlock-container .murder ul{
