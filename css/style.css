@@ -95,7 +95,6 @@
 }
 /*resume css*/
 #contact{
-	float: left;
 	width: 90%;
 	padding: 10px;
 	margin-left:5%;
@@ -119,7 +118,6 @@
 	text-decoration: underline;
 }	
 #objective{
-	float: left;
 	width: 80%;
 	padding: 10px;
 	border-radius: 20px;
