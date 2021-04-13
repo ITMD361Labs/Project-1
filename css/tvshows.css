@@ -416,7 +416,7 @@
 #sherlock-container img{
 	float: left;
 	width: 90%;
-	height: 500px;
+	height: 460px;
 	margin: 2% 5% 5% 5%;
 	box-shadow: 1px 1px 10px 10px black;
 	border: 5px solid #bfcac4;
@@ -456,7 +456,7 @@
 }
 #sherlock-container .sherlock img{
 	width: 80%;
-	height: 650px;
+	height: 750px;
 	margin: 7% 10% 2% 10%;
 	border: 5px solid black;
 	
