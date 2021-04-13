@@ -163,11 +163,11 @@
 	width: 60%;
 	height: 550px;
 	margin: 2% 20% 2% 20%;
-	border: 5px solid black;
+	border: 1% solid black;
 }
 #thrones-container .info p{
 	width: 90%;
-	margin: 3% 2.5% 3% 2.5%;
+	margin: 3% 4% 3% 4%;
 	font-size: 1.5em;
 	padding: 10px;
 	background: black;
