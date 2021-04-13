@@ -93,15 +93,7 @@
 	color: blue;
 	background:white;
 }
-#main-container{
-	color:#000033;
-	font-family: 'Playfair Display', serif;
-	font-size: 1.2em;
-	padding: 3em 0.5em 0 0.5em;
-	margin: 0% 5% 0% 5%;
-	background-color: #E0FFFF;
-	
-}
+
 /*resume css*/
 #contact{
 	width: 90%;
