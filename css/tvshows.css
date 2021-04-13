@@ -240,7 +240,6 @@
 	font-size: 1.5em;
 	background: #4d666d;
 	overflow: hidden;
-	float:right;
 	
 }
 #series img{
@@ -250,6 +249,16 @@
 	border: 5px solid black;
 	float: right;
 }
+#series h3{
+	float: right;
+	text-align: center;
+	font-size: 2em;
+	width: 100%;
+	margin: 5% 0 5% 0;
+	padding: 10px 0 10px 0;
+	background: black;
+}
+
 #thrones-container iframe{
 	width: 80%;
 	height: 400px;
@@ -389,5 +398,113 @@
 }
 
 /*sherlock css*/
+#murder-container p{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 10px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 1.2em;
+	background: black;
+	color: white;
+}
 
+
+#sherlock p{
+	font-size: 2em;
+	text-align: center;
+	float: left;
+	width: 70%;
+	margin: 5% 15% 0 15%;
+	padding: 5px;
+	border-radius: 10px 10px 0 0;
+	background: black;
+	overflow: hidden;
+}
+#sherlock ul{
+	list-style-type: none;
+	width: 70%;
+	margin: 0 15% 10% 15%;
+	padding: 5px;
+	border-radius: 0px 0px 10px 10px;
+	background: black;
+	overflow:hidden;
+}
+#sherlock ul li {
+	text-align: center;
+	font-size: 1.5em;
+}
+#sherlock ul li a{
+	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
+	color:red;
+}
+#sherlock ul li a:hover{
+	color: white;
+	background: #404040;
+}
+
+#sherlock img{
+	float: left;
+	width: 60%;
+	height:auto;
+	margin: 0 20% 10px 20%;
+	border: 5px solid black;
+}
+#series3 img{
+	float: left;
+	width: 60%;
+	height: auto;
+	margin: 0 20% 0 20%;
+	border: 5px solid black;
+}
+#series3 p{
+	width: 60%;
+	float: left;
+	margin: 0 20% 0 20%;
+	font-size: 2em;
+	padding: 10px;
+	border-radius: 10px;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
+	background: rgb(174,188,191); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(110,119,116,1) 50%, rgba(10,14,10,1) 87%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
+}
+#series3 ul{
+	width: 60%;
+	float: left;
+	margin: 0 20% 0 20%;
+	padding: 10px;
+	text-align:center;
+	border-radius: 10px 10px 0 0;
+}
+#series3 ul li{
+	list-style-type: none;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
+	background: rgb(174,188,191); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(110,119,116,1) 50%, rgba(10,14,10,1) 87%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
+}
+#series3 ul li a{
+	color: white;
+	font-size:2em;
+	text-decoration: none;
+}
+#series3 ul li a:hover{
+	color:white;
+	background: black;
+}
+
+#series3 h3{
+	float: right;
+	text-align: center;
+	font-size: 2em;
+	width: 100%;
+	margin: 5% 0 5% 0;
+	padding: 10px 0 10px 0;
+	background: black;
+}
 
