@@ -146,6 +146,7 @@
 #game p{
 	font-size: 2em;
 	text-align: center;
+	float:left;
 	width: 100%;
 	padding: 5px;
 	background: black;
