@@ -182,13 +182,6 @@
 	border: 5px solid black;
 }
 
-#series img{
-	width: 300px;
-	height: 300px;
-	float: right;
-	margin: 0 5% 5% 5%;
-	border: 5px solid black;
-}
 
 #series .web{
 	width: 35%;
@@ -222,7 +215,7 @@
 #series ul{
 	width: 35%;
 	float: left;
-	margin: 0 5% 10% 10%;
+	margin: 2% 5% 0% 0%;
 	padding: 10px;
 	font-size: 1.5em;
 	text-align:center;
@@ -246,14 +239,13 @@
 	color:white;
 	background: black;
 }
-#series h3{
+
+#series img{
+	width: 300px;
+	height: 300px;
 	float: right;
-	text-align: center;
-	font-size: 2em;
-	width: 100%;
-	margin: 5% 0 5% 0;
-	padding: 10px 0 10px 0;
-	background: black;
+	margin: 0 5% 5% 5%;
+	border: 5px solid black;
 }
 
 #date2{
@@ -278,6 +270,15 @@
 }
 
 
+#series h3{
+	float: right;
+	text-align: center;
+	font-size: 2em;
+	width: 100%;
+	margin: 5% 0 5% 0;
+	padding: 10px 0 10px 0;
+	background: black;
+}
 
 #movies iframe{
 	width: 80%;
