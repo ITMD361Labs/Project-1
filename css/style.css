@@ -82,7 +82,11 @@
 	background-color: #E0FFFF;
 	
 }
-
+#resume-container{
+	padding: 1em;
+	margin: 3em;
+	background-color: #E0FFFF;
+}
 #main-resume p{
 	text-align:left;
 	font-weight: bold;
