@@ -141,9 +141,9 @@
 
 /*float images and change sizes*/
 #games img{
-	width: 50%;
-	height: auto;
-	margin: 5% 0 0 5%;
+	width: 80%;
+	height: 400px;
+	margin: 5% 10% 10% 5%;
 	float: left;
 	box-shadow: 0 4px 4px 0 white;
 } 
