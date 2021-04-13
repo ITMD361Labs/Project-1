@@ -238,8 +238,7 @@
 	height: 330px;
 	margin: 0% 25% 0% 25%;
 	border: 5px solid black;
-	float: left;
-	position: relative;
+	float: right;
 }
 
 #date2{
