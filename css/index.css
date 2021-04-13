@@ -211,7 +211,7 @@
 /*css for the minecraft description */
 #par1{
 	width:40%;
- 	margin: 5%;
+ 	margin: 0% 5% 0% 0%;
  	padding:5px;
  	float: left;
  	border-radius: 20px;
