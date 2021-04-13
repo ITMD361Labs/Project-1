@@ -314,10 +314,9 @@
 	background: #404040;
 }
 #murder-container .murder img{
-	width: 40%;
-	height: auto;
-	float: right;
-	margin: 0 5% 5% 0;
+	width: 60%;
+	height: 550px;
+	margin: 2% 20% 2% 20%;
 	border: 5px solid black;
 }
 #series2 p{
