@@ -106,7 +106,7 @@
 	font-size: 2em;
 	width: 100%;
 	padding:10px 0 10px 0;
-	margin-top: 5%;
+	margin-top: 3%;
 	margin-bottom: 0%;
 	background: #404040;
 	color: #ff471a;
@@ -192,7 +192,7 @@
 }
 
 
-#thrones-container .series .web{
+#series .web{
 	width: 35%;
 	float: left;
 	margin: 2% 5% 0% 5%;
@@ -207,7 +207,7 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
 }
 
-#thrones-container .series ul{
+#series ul{
 	width: 35%;
 	float: left;
 	margin: 0% 5% 0% 5%;
@@ -218,21 +218,21 @@
 	background: #5f150c;
 
 }
-#thrones-container .series ul li{
+#series ul li{
 	list-style-type: none;
 	background-color: black;
 	border: 1px solid white;
 }
-#thrones-container .series ul li a{
+#series ul li a{
 	color: white;
 	font-size:1.3em;
 	text-decoration: none;
 }
-#thrones-container .series ul li a:hover{
+#series ul li a:hover{
 	color:black;
 	background: white;
 }
-#thrones-container .series .char{
+#series .char{
 	width: 100%;
 	padding:5px 0 10px 0;
 	margin-top: 3%;
@@ -242,7 +242,7 @@
 	overflow: hidden;
 	
 }
-#thrones-container .series img{
+#series img{
 	width: 50%;
 	height: auto;
 	margin: 0% 25% 0% 25%;
@@ -277,7 +277,7 @@
 	box-shadow: 1px 1px 10px 10px purple;
 	border: 5px solid black;
 }
-##murder-container .murder p{
+#murder p{
 	font-size: 2em;
 	text-align: center;
 	float: left;
@@ -288,7 +288,7 @@
 	background: black;
 	overflow: hidden;
 }
-##murder-container .murder ul{
+#murder ul{
 	list-style-type: none;
 	width: 70%;
 	margin: 0 15% 10% 15%;
@@ -297,26 +297,26 @@
 	background: black;
 	overflow:hidden;
 }
-##murder-container .murder ul li {
+#murder ul li {
 	text-align: center;
 	font-size: 1.5em;
 }
-##murder-container .murder ul li a{
+#murder ul li a{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	color:red;
 }
-##murder-container .murder ul li a:hover{
+#murder ul li a:hover{
 	color: white;
 	background: #404040;
 }
-##murder-container .murder img{
+#murder .cast{
 	width: 40%;
 	height: auto;
 	float: right;
 	margin: 0 5% 5% 0;
 	border: 5px solid black;
 }
-##murder-container .series2 p{
+#series2 p{
 	width: 35%;
 	float: left;
 	margin: 10% 5% 0 10%;
@@ -330,7 +330,7 @@
 	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
 }
-##murder-container .series2 ul{
+#series2 ul{
 	width: 35%;
 	float: left;
 	margin: 0 5% 0 10%;
@@ -338,7 +338,7 @@
 	text-align:center;
 	border-radius: 10px 10px 0 0;
 }
-##murder-container .series2 ul li{
+#series2 ul li{
 	list-style-type: none;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
 	background: rgb(174,188,191); /* Old browsers */
@@ -347,23 +347,23 @@
 	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
 }
-##murder-container .series2 ul li a{
+#series2 ul li a{
 	color: white;
 	font-size:2em;
 	text-decoration: none;
 }
-##murder-container .series2 ul li a:hover{
+#series2 ul li a:hover{
 	color:white;
 	background: black;
 }
-##murder-container .series2 img{
+#series2 img{
 	width: 40%;
 	height: auto;
 	float: right;
 	margin: 0 5% 5% 0;
 	border: 5px solid black;
 }
-##murder-container .series2 h3{
+#series2 h3{
 	float: right;
 	text-align: center;
 	font-size: 2em;
