@@ -120,9 +120,8 @@
 
 #thrones-container img{
 	float: left;
-	width: 60%;
+	width: 100%;
 	height: 200px;
-	margin:0% 20% 0% 20%;
 	box-shadow: 0 4px 4px 0 white;
 	border: 5px solid black;
 }
