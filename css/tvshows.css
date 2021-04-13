@@ -172,7 +172,6 @@
 	font-size: 1.5em;
 	background: black;
 	overflow: hidden;
-	border: 5px 0px 5px 0px solid #384363;
 }
 #thrones-container .info img{
     width: 300px;
@@ -229,13 +228,7 @@
 	font-size: 2em;
 	padding: 10px;
 	border-radius: 10px 10px 0 0;
-	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
-	background: rgb(174,188,191); /* Old browsers */
-	background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(110,119,116,1) 50%, rgba(10,14,10,1) 87%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
-}
+	
 #series .char{
 	width: 35%;
 	float: left;
@@ -243,12 +236,7 @@
 	font-size: 2em;
 	padding: 10px;
 	border-radius: 10px;
-	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
-	background: rgb(174,188,191); /* Old browsers */
-	background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(110,119,116,1) 50%, rgba(10,14,10,1) 87%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
+
 }
 #series ul{
 	width: 35%;
@@ -261,13 +249,7 @@
 }
 #series ul li{
 	list-style-type: none;
-	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
-	background: rgb(174,188,191); /* Old browsers */
-	background: -moz-linear-gradient(top,  rgba(174,188,191,1) 0%, rgba(110,119,116,1) 50%, rgba(10,14,10,1) 87%, rgba(10,8,9,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(110,119,116,1) 50%,rgba(10,14,10,1) 87%,rgba(10,8,9,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
-}
+	
 #series ul li a{
 	color: white;
 	font-size:1.5em;
