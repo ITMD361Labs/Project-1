@@ -100,7 +100,7 @@
 	margin: 0em 1.5em 0em 1.5em ;
 	
 }
-#minecraft h2{
+#games h2{
 	text-align: center;
 	font-size: 2em;
 	width: 100%;
@@ -110,7 +110,7 @@
 	color: white;
 }
 
-#minecraft .basic{
+#games .basic{
 	text-align: center;
 	width: 100%;
 	padding:5px 0 5px 0;
@@ -121,7 +121,7 @@
 }
 
 /*float images and change sizes*/
-#minecraft img{
+#games img{
 	width: 40%;
 	height: auto;
 	margin: 5% 0 0 5%;
@@ -131,7 +131,7 @@
 
 
 /*css for the div of all games with a class of left-column*/
-#minecraft .left-column{
+#games .left-column{
 	text-align: left;
 	margin: 5% 5% 0 5%;
 	width: 40%;
@@ -150,26 +150,26 @@
 	
 }
 
-#minecraft .left-column a{
+#games .left-column a{
 	color: purple;
 	font-size: 20px;
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 }
-#minecraft .left-column a:hover{
+#games .left-column a:hover{
 	color: white;
 	background: #e65c00;
 }
-#minecraft .left-column ul li{
+#games .left-column ul li{
 	list-style-type: square;
 	color: white;
 }
-#minecraft iframe{
+#games iframe{
 	width: 750px;
 	height: 400px;
 	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
 }
-#minecraft .trailer{
+#games .trailer{
 	width:20%;
  	margin: 5% 40% 5% 40%;
  	padding:5px;
