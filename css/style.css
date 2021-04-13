@@ -140,6 +140,11 @@
 	border-radius: 20px;
 	overflow: hidden;
 }
+#experience .container{
+	padding: 3em 1em 1em 1em;
+	margin: 0% 10% 0% 10%;
+	background-color: #E0FFFF;
+}
 #experience p{
 	text-align:left;
 	font-weight: bold;
