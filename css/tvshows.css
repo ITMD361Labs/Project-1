@@ -215,8 +215,8 @@
 #series ul{
 	width: 35%;
 	float: left;
-	margin: 0% 5% 0% 1%;
-	padding: 0;
+	margin: 0% 5% 0% 0%;
+	padding: 10px;
 	font-size: 1.5em;
 	text-align:center;
 
