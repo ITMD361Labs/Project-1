@@ -103,19 +103,19 @@
 #fortnite-container{
 	background-color: #FFD700;
 	padding: 20px;
-	margin: 0em 1.5em 0em 1.5em ;
+	margin:0% 5% 0% 5%  ;
 }
 
 #csgo-container{
 	background-color: #4682B4;
 	padding: 20px;
-	margin: 0em 1.5em 0em 1.5em ;
+	margin: 0% 5% 0% 5% ;
 }
 
 #rocket-container{
 	background-color: #1E90FF;
 	padding: 20px;
-	margin: 0em 1.5em 0em 1.5em ;
+	margin:0% 5% 0% 5%  ;
 	
 }
 /*add css for all of the games*/
