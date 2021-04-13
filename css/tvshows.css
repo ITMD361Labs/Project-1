@@ -316,12 +316,11 @@
 #murder-container .murder img{
 	width: 90%;
 	height: 450px;
-	margin: 2% 5% 2% 5%;
+	margin: 5% 5% 2% 5%;
 	border: 5px solid black;
 	
 }
 #series2 p{
-	float:right;
 	font-size: 2em;
 	text-align: center;
 	width: 100%;
