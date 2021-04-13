@@ -503,7 +503,7 @@
 	height: 450px;
 	float: left;
 	margin: 2% 5% 2% 5%;
-	border: 5px solid black;
+	border: 5px solid #bfcac4;
 }
 #series3 h3{
 	float: right;
@@ -514,12 +514,12 @@
 	margin-bottom: 5%;
 	padding: 10px 0 10px 0;
 	background: #477487;
-	color: black;
+	color: white;
 }
 
 #sherlock-container iframe{
 	width: 80%;
 	height: 400px;
 	margin: 0% 10% 3% 10%;
-	box-shadow: 1px 1px 10px 10px white;
+	box-shadow: 1px 1px 10px 10px black;
 }
