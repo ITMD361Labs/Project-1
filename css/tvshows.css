@@ -224,6 +224,7 @@
 #series ul li{
 	list-style-type: none;
 	background-color: black;
+	border: 1px solid white;
 }
 #series ul li a{
 	color: white;
