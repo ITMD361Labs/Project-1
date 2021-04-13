@@ -93,13 +93,32 @@
 	background: linear-gradient(to bottom,  rgba(207,210,247,1) 0%,rgba(115,127,231,1) 24%,rgba(10,30,214,1) 50%,rgba(83,97,225,1) 79%,rgba(136,146,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfd2f7', endColorstr='#8892ea',GradientType=0 ); /* IE6-9 */
 }
-
+/*add colors to each game using containers*/
 #minecraft-container{
 	background-color: #2E8B57;
 	padding: 20px;
 	margin: 0em 1.5em 0em 1.5em ;
 	
 }
+#fortnite-container{
+	background-color: #FFD700;
+	padding: 20px;
+	margin: 0em 1.5em 0em 1.5em ;
+}
+
+#csgo-container{
+	background-color: #4682B4;
+	padding: 20px;
+	margin: 0em 1.5em 0em 1.5em ;
+}
+
+#rocket-container{
+	background-color: #1E90FF;
+	padding: 20px;
+	margin: 0em 1.5em 0em 1.5em ;
+	
+}
+/*add css for all of the games*/
 #games h2{
 	text-align: center;
 	font-size: 2em;
