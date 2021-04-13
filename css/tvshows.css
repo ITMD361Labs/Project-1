@@ -421,19 +421,18 @@
 	box-shadow: 1px 1px 10px 10px black;
 	border: 5px solid #bfcac4;
 }
-#sherlock-container .murder p{
-	float:right;
+#sherlock-container .sherlock p{
 	font-size: 2em;
 	text-align: center;
 	width: 100%;
 	padding:5px 0 10px 0;
 	margin-top: 0%;
 	margin-bottom: 0%;
-	color:black;
 	background: #bfcac4;
+	color: black;
 	overflow: hidden;
 }
-#sherlock-container .murder ul{
+#sherlock-container .sherlock ul{
 	list-style-type: none;
 	width: 100%;
 	padding:5px 0 10px 0;
@@ -443,19 +442,19 @@
 	background: #fff3e9;
 	overflow:hidden;
 }
-#sherlock-container .murder ul li {
+#sherlock-container .sherlock ul li {
 	text-align: center;
 	font-size: 1.5em;
 }
-#sherlock-container .murder ul li a{
+#sherlock-container .sherlock ul li a{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	color:red;
 }
-#sherlock-container .murder ul li a:hover{
+#sherlock-container .sherlock ul li a:hover{
 	color: white;
 	background: #404040;
 }
-#sherlock-container .murder img{
+#sherlock-container .sherlock img{
 	width: 90%;
 	height: 450px;
 	margin: 7% 5% 2% 5%;
