@@ -102,8 +102,7 @@
 	background: #404040;
 	color: #ff471a;
 }
-
-#date1{
+#thrones-container p{
 	text-align: center;
 	width: 100%;
 	padding:5px 0 10px 0;
@@ -113,6 +112,7 @@
 	background: black;
 	color: white;
 }
+
 #date2{
 	text-align: center;
 	width: 100%;
