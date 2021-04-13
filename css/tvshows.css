@@ -143,6 +143,14 @@
 	margin: 0 5% 5% 5%;
 	border: 5px solid black;
 }
+#game p{
+	font-size: 2em;
+	text-align: center;
+	width: 100%;
+	padding: 5px;
+	background: black;
+	overflow: hidden;
+}
 #game img{
 	width: 30%;
 	height: 300px;
@@ -150,17 +158,7 @@
 	float: left;
 	border: 5px solid black;
 }
-#game p{
-	font-size: 2em;
-	text-align: center;
-	float: left;
-	width: 70%;
-	margin: 5% 15% 0 15%;
-	padding: 5px;
-	border-radius: 10px 10px 0 0;
-	background: black;
-	overflow: hidden;
-}
+
 #game ul{
 	list-style-type: none;
 	width: 70%;
