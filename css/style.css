@@ -74,11 +74,10 @@
 }
 
 #main-resume{
-	float:right;
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	background-color: #495153;
+	background-color: #E0FFFF;
 	margin: 0% 10% 0% 10%;
 	border: 5px solid #010101;
 	
