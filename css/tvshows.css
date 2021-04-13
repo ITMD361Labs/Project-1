@@ -369,6 +369,7 @@
 	border: 5px solid black;
 }
 #series2 h3{
+	float: right;
 	text-align: center;
 	font-size: 2em;
 	width: 100%;
