@@ -388,7 +388,12 @@
 }
 
 /*sherlock css*/
-#date3{
+#sherlock-container {
+	background-color: #4d5665;
+	margin: 0% 10% 0% 10%;
+	border: 5px solid #151e2d;
+}
+#sherlock-container p{
 	text-align: center;
 	width: 100%;
 	padding:5px 0 10px 0;
@@ -399,15 +404,7 @@
 	color: white;
 }
 
-#series h3{
-	float: right;
-	text-align: center;
-	font-size: 2em;
-	width: 100%;
-	margin: 5% 0 5% 0;
-	padding: 10px 0 10px 0;
-	background: black;
-}
+
 #sherlock p{
 	font-size: 2em;
 	text-align: center;
