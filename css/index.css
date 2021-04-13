@@ -153,9 +153,9 @@
 #games .left-column{
 	text-align: left;
 	float: left;
-	width: 70%;
-	margin: 0% 15% 0% 15%;
-	padding: 5px 10px 5px 10px;
+	width: 90%;
+	margin: 5%;
+	padding: 5px;
 	border-radius: 20px;
 	overflow: hidden;
 	color: black;
