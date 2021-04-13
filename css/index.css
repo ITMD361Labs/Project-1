@@ -121,7 +121,7 @@
 }
 
 /*float images and change sizes*/
-#games img{
+#minecraft-container img{
 	width: 40%;
 	height: auto;
 	margin: 5% 0 0 5%;
