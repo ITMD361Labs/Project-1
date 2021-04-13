@@ -74,6 +74,7 @@
 }
 
 #main-resume{
+	float:right;
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
