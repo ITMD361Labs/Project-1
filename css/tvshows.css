@@ -235,7 +235,7 @@
 }
 #series img{
 	width: 50%;
-	height: 330px;
+	height: auto;
 	margin: 0% 25% 0% 25%;
 	border: 5px solid black;
 	float: right;
