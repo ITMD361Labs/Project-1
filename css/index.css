@@ -94,7 +94,7 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfd2f7', endColorstr='#8892ea',GradientType=0 ); /* IE6-9 */
 }
 
-#games h2{
+#minecraft h2{
 	text-align: center;
 	font-size: 2em;
 	width: 100%;
@@ -104,7 +104,7 @@
 	color: white;
 }
 
-#games .basic{
+#minecraft .basic{
 	text-align: center;
 	width: 100%;
 	padding:5px 0 5px 0;
@@ -115,7 +115,7 @@
 }
 
 /*float images and change sizes*/
-#games img{
+#minecraft img{
 	width: 40%;
 	height: auto;
 	margin: 5% 0 0 5%;
@@ -125,7 +125,7 @@
 
 
 /*css for the div of all games with a class of left-column*/
-#games .left-column{
+#minecraft .left-column{
 	text-align: left;
 	margin: 5% 5% 0 5%;
 	width: 40%;
@@ -144,25 +144,25 @@
 	
 }
 
-#games .left-column a{
+#minecraft .left-column a{
 	color: purple;
 	font-size: 20px;
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 }
-#games .left-column a:hover{
+#minecraft .left-column a:hover{
 	color: white;
 	background: #e65c00;
 }
-#games .left-column ul li{
+#minecraft .left-column ul li{
 	list-style-type: square;
 	color: white;
 }
-#games iframe{
+#minecraft iframe{
 	width: 50%;
 	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
 }
-#games .trailer{
+#minecraft .trailer{
 	width:20%;
  	margin: 5% 40% 5% 40%;
  	padding:5px;
