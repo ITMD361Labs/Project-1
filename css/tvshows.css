@@ -448,7 +448,7 @@
 }
 #sherlock-container .sherlock ul li a{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
-	color:red;
+	color: #1f1f1f;
 }
 #sherlock-container .sherlock ul li a:hover{
 	color: white;
