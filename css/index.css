@@ -181,6 +181,11 @@
  	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4b7ed', endColorstr='#c4b7ed',GradientType=0 ); /* IE6-9 */ 
 }
 
+#games .minecraft{
+	padding: 1em;
+	margin: 3em;
+	background-color: #E0FFFF;
+}
 
 #par1{
 	width:90%;
