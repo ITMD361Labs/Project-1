@@ -94,8 +94,10 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfd2f7', endColorstr='#8892ea',GradientType=0 ); /* IE6-9 */
 }
 
-#minecraft{
+#minecraft-container{
 	background-color: #90EE90;
+	padding: 1em;
+	margin: 3em;
 	
 }
 #minecraft h2{
