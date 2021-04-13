@@ -275,9 +275,10 @@
 
 #movies iframe{
 	width: 80%;
-	height: 400px;
-	margin: 0% 10% 0% 10%;
-	box-shadow: 0 4px 4px 0 white;
+	height: auto;
+	margin: 0% 10% 3% 10%;
+	box-shadow: 1px 1px 10px 10px purple;
+
 }
 
 
