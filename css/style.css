@@ -79,7 +79,8 @@
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	width: 960px; 
+	padding: 1em;
+	margin:0;
 	background-color: #A9A9A9;
 	
 }
