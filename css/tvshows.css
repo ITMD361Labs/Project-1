@@ -272,9 +272,9 @@
 #murder-container img{
 	float: left;
 	width: 80%;
-	height: 200px;
+	height: 400px;
 	margin: 2% 10% 5% 10%;
-	box-shadow: 1px 1px 10px 10px purple;
+	box-shadow: 1px 1px 10px 10px white;
 	border: 5px solid black;
 }
 #murder-container .murder p{
