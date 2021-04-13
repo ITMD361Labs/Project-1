@@ -152,7 +152,7 @@
 /*css for the div of all games with a class of left-column*/
 #games .left-column{
 	text-align: left;
-	float: right;
+	float: left;
 	width: 100%;
 	
 	padding: 5px 10px 5px 10px;
