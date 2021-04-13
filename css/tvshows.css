@@ -126,40 +126,15 @@
 	box-shadow: 5px 5px 5px 5px purple;
 	border: 5px solid black;
 }
-#thrones-container .info p{
-	width: 20%;
-	margin: 0 5% 5% 0;
-	float: left;
-	font-size: 2em;
-	padding: 10px;
-	border-radius: 10px 10px 0 0;
-	background: black;
-	overflow: hidden;
-}
-#thrones-container .info img{
-    width: 300px;
-	height: 300px;
-	float: right;
-	margin: 0 5% 5% 5%;
-	border: 5px solid black;
-}
+
 #game p{
 	font-size: 2em;
 	text-align: center;
-	width: 95%;
-	margin: 2% 2.5% 0% 2.5%;
+	margin: 0% 5% 0% 5%;
 	padding: 5px;
 	background: black;
 	overflow: hidden;
 }
-#game img{
-	width: 30%;
-	height: 300px;
-	margin: 0 5% 5% 5%;
-	float: left;
-	border: 5px solid black;
-}
-
 #game ul{
 	list-style-type: none;
 	width: 90%;
@@ -179,6 +154,30 @@
 #game ul li a:hover{
 	color: white;
 	background: #404040;
+}
+#game img{
+	width: 30%;
+	height: 300px;
+	margin: 0 5% 5% 5%;
+	float: left;
+	border: 5px solid black;
+}
+#thrones-container .info p{
+	width: 20%;
+	margin: 0 5% 5% 0;
+	float: left;
+	font-size: 2em;
+	padding: 10px;
+	border-radius: 10px 10px 0 0;
+	background: black;
+	overflow: hidden;
+}
+#thrones-container .info img{
+    width: 300px;
+	height: 300px;
+	float: right;
+	margin: 0 5% 5% 5%;
+	border: 5px solid black;
 }
 
 #date2{
