@@ -232,8 +232,8 @@
 	text-decoration: none;
 }
 #series ul li a:hover{
-	color:white;
-	background: black;
+	color:black;
+	background: white;
 }
 
 #series img{
