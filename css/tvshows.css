@@ -113,6 +113,13 @@
 	color: white;
 }
 
+#thrones-container img{
+	float: left;
+	width: 60%;
+	margin:0% 20% 0% 20%;
+	box-shadow: 0 4px 4px 0 white;
+	border: 5px solid black;
+}
 #date2{
 	text-align: center;
 	width: 100%;
@@ -133,13 +140,7 @@
 	background: black;
 	color: white;
 }
-#movies .imagetop{
-	float: left;
-	width: 60%;
-	margin:0% 20% 0% 20%;
-	box-shadow: 0 4px 4px 0 white;
-	border: 5px solid black;
-}
+
 
 #game img{
 	width: 60%;
