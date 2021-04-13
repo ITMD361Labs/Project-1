@@ -79,7 +79,8 @@
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	width: 100%;
+	width: 100%; 
+	background-color: #A9A9A9;
 }
 
 #main-resume p{
