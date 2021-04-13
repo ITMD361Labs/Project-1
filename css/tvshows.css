@@ -408,8 +408,8 @@
 	width: 80%;
 	height: 350px;
 	margin: 2% 10% 5% 10%;
-	box-shadow: 1px 1px 10px 10px #dce9ef;
-	border: 5px solid #111a29;
+	box-shadow: 1px 1px 10px 10px #111a29;
+	border: 5px solid #dce9ef;
 }
 ##sherlock-container .sherlock p{
 	font-size: 2em;
