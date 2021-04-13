@@ -459,8 +459,7 @@
 	width: 80%;
 	height: 750px;
 	margin: 7% 10% 2% 10%;
-	border: 5px solid black;
-	
+	border: 5px solid #bfcac4;
 }
 #series3 p{
 	border-radius: 15px;
@@ -481,12 +480,12 @@
 	font-size: 1.5em;
 	text-align:center;
 	border: 1px solid black;
-	background: #d51c22;
+	background: #f0f5f9;
 }
 #series3 ul li{
 	list-style-type: none;
-	background-color: gold;
-	border: 1px solid black ;
+	background-color: black;
+	border: 1px solid #477487 ;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+50,0a0e0a+87,0a0809+100 */
 	
 }
@@ -496,8 +495,8 @@
 	text-decoration: none;
 }
 #series3 ul li a:hover{
-	color:white;
-	background: black;
+	color:black;
+	background: white;
 }
 #series3 img{
  	width: 40%;
