@@ -110,11 +110,10 @@
 }
 #thrones-container p{
 	text-align: center;
-	width: 99%;
+	width: 100%;
 	padding:5px 0 10px 0;
 	margin-top: 0%;
 	margin-bottom: 0%;
-	border: 5px solid white;
 	font-size: 1.2em;
 	background: black;
 	color: white;
