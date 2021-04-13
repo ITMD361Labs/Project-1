@@ -164,9 +164,9 @@
 	color: white;
 }
 #games iframe{
-	width: 70%;
+	width: 80%;
 	height: 400px;
-	margin: 0% 15% 0% 15%;
+	margin: 0% 10% 0% 10%;
 	box-shadow: 0 4px 4px 0 white;
 }
 #games .trailer{
