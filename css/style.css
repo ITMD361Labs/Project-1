@@ -121,13 +121,11 @@
 	text-decoration: underline;
 }	
 #objective{
-	width: 80%;
+	float: left;
+	width: 90%;
 	padding: 10px;
 	border-radius: 20px;
-	margin-top: 5%;
-	margin-left:10%;
-	margin-right: 10%;
-	margin-bottom:5%;
+	margin: 5% 5% 5% 5%;
 	background: #b3d9ff;
 	text-align:center;
 }
