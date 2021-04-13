@@ -321,6 +321,7 @@
 	
 }
 #series2 p{
+	float:right;
 	font-size: 2em;
 	text-align: center;
 	width: 100%;
