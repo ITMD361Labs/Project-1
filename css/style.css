@@ -77,8 +77,8 @@
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	padding: 3em 1em 1em 1em;
-	margin: 0% 10% 0% 10%;
+	padding: 3em 0.5em 0 0.5em;
+	margin: 0% 5% 0% 5%;
 	background-color: #E0FFFF;
 	
 }
@@ -93,13 +93,13 @@
 	color: blue;
 	background:white;
 }
+
 /*resume css*/
 #contact{
 	width: 90%;
 	padding: 10px;
 	margin-left:5%;
 	margin-right:5%;
-	margin-bottom: 20px;
 	background: #b3d9ff;
 	text-align: center;	
 	border-radius: 20px;
@@ -141,6 +141,7 @@
 	border-radius: 20px;
 	overflow: hidden;
 }
+
 #experience p{
 	text-align:left;
 	font-weight: bold;
