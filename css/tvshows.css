@@ -105,7 +105,7 @@
 #thrones-container{
 	background-color: #92aec6;
 	margin: 0% 5% 0% 5%;
-	border-radius: 0px 0px 0px 0px  #0f233b;
+	border: 5px solid #0f233b;
 }
 #thrones-container p{
 	text-align: center;
