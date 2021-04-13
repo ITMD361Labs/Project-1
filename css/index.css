@@ -96,7 +96,7 @@
 
 #minecraft-container{
 	background-color: #90EE90;
-	
+	padding: 20px;
 	margin: 0em 1.5em 0em 1.5em ;
 	
 }
@@ -164,8 +164,8 @@
 	color: white;
 }
 #games iframe{
-	width: 50%;
-	height: 50%;
+	width: 750px;
+	height: 400px;
 	margin:5% 25% 5% 25%;
 	box-shadow: 0 4px 4px 0 white;
 }
