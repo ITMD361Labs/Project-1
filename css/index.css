@@ -153,7 +153,7 @@
 #games .left-column{
 	text-align: left;
 	margin: 5% 5% 0 5%;
-	width: 40%;
+	width: 30%;
 	float: left;
 	padding: 5px 10px 5px 10px;
 	border-radius: 20px;
@@ -208,7 +208,7 @@
 }
 
 
-
+/*css for the minecraft description */
 #par1{
 	width:90%;
  	margin: 5%;
@@ -238,7 +238,7 @@
 	color: white;
 	background: blue;
 }
-
+/*css for the fortnite description*/
 #par2{
 	width:90%;
  	margin: 5%;
@@ -269,6 +269,7 @@
 	background: blue;
 }
 
+/*css for the csgo description*/
 #par3{
 	width:90%;
  	margin: 5%;
@@ -299,6 +300,7 @@
 	background: blue;
 }
 
+/*css for the rocket description*/
 #par4{
 	width:90%;
  	margin: 5%;
