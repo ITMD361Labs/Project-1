@@ -240,6 +240,7 @@
 	font-size: 1.5em;
 	background: #4d666d;
 	overflow: hidden;
+	float:right;
 	
 }
 #series img{
