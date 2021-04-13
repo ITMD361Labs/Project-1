@@ -92,6 +92,14 @@
 #intro p{
 	font-size: 1.5em;
 }
+/*css for the trailer videos*/
+#movies iframe{
+	width: 80%;
+	height: 400px;
+	margin: 0% 10% 3% 10%;
+	box-shadow: 1px 1px 10px 10px purple;
+}
+
 /*css for game of thrones section*/
 #movies h2{
 	text-align: center;
@@ -241,34 +249,6 @@
 	float: right;
 }
 
-#date3{
-	text-align: center;
-	width: 100%;
-	padding:5px 0 10px 0;
-	margin-top: 0%;
-	margin-bottom: 0%;
-	font-size: 1.2em;
-	background: black;
-	color: white;
-}
-
-
-#series h3{
-	float: right;
-	text-align: center;
-	font-size: 2em;
-	width: 100%;
-	margin: 5% 0 5% 0;
-	padding: 10px 0 10px 0;
-	background: black;
-}
-
-#movies iframe{
-	width: 80%;
-	height: 400px;
-	margin: 0% 10% 3% 10%;
-	box-shadow: 1px 1px 10px 10px purple;
-}
 
 
 
@@ -287,6 +267,14 @@
 	font-size: 1.2em;
 	background: black;
 	color: white;
+}
+#thrones-container img{
+	float: left;
+	width: 80%;
+	height: 200px;
+	margin: 2% 10% 5% 10%;
+	box-shadow: 1px 1px 10px 10px purple;
+	border: 5px solid black;
 }
 #murder p{
 	font-size: 2em;
@@ -385,6 +373,26 @@
 }
 
 /*sherlock css*/
+#date3{
+	text-align: center;
+	width: 100%;
+	padding:5px 0 10px 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 1.2em;
+	background: black;
+	color: white;
+}
+
+#series h3{
+	float: right;
+	text-align: center;
+	font-size: 2em;
+	width: 100%;
+	margin: 5% 0 5% 0;
+	padding: 10px 0 10px 0;
+	background: black;
+}
 #sherlock p{
 	font-size: 2em;
 	text-align: center;
