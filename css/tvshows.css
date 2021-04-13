@@ -127,15 +127,15 @@
 	border: 5px solid black;
 }
 
-#game p{
+#thrones-container .game p{
 	font-size: 2em;
 	text-align: center;
-	margin: 0% 5% 0% 5%;
+
 	padding: 5px;
 	background: black;
 	overflow: hidden;
 }
-#game ul{
+#thrones-container .game ul{
 	list-style-type: none;
 	width: 90%;
 	margin: 0 5% 5% 5%;
@@ -143,19 +143,19 @@
 	background: black;
 	overflow:hidden;
 }
-#game ul li {
+#thrones-container .game ul li {
 	text-align: center;
 	font-size: 1.5em;
 }
-#game ul li a{
+#thrones-container .game ul li a{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	color:red;
 }
-#game ul li a:hover{
+#thrones-container .game ul li a:hover{
 	color: white;
 	background: #404040;
 }
-#game img{
+#thrones-container .game img{
 	width: 30%;
 	height: 300px;
 	margin: 0 5% 5% 5%;
