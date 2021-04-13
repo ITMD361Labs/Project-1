@@ -177,6 +177,7 @@
 #thrones-container .info img{
     width: 40%;
 	height: 300px;
+	float: left;
 	margin: 2% 5% 2% 10%;
 	border: 5px solid black;
 }
