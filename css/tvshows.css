@@ -277,7 +277,7 @@
 	box-shadow: 1px 1px 10px 10px purple;
 	border: 5px solid black;
 }
-#murder p{
+#murder-container .murder p{
 	font-size: 2em;
 	text-align: center;
 	float: left;
@@ -288,7 +288,7 @@
 	background: black;
 	overflow: hidden;
 }
-#murder ul{
+#murder-container .murder ul{
 	list-style-type: none;
 	width: 70%;
 	margin: 0 15% 10% 15%;
@@ -297,19 +297,19 @@
 	background: black;
 	overflow:hidden;
 }
-#murder ul li {
+#murder-container .murder ul li {
 	text-align: center;
 	font-size: 1.5em;
 }
-#murder ul li a{
+#murder-container .murder ul li a{
 	font-family: 'sf_archery_blackregular', Fantasy, Copperplate;
 	color:red;
 }
-#murder ul li a:hover{
+#murder-container .murder ul li a:hover{
 	color: white;
 	background: #404040;
 }
-#murder .cast{
+#murder-container .murder img{
 	width: 40%;
 	height: auto;
 	float: right;
