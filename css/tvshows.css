@@ -284,7 +284,8 @@
 	padding:5px 0 10px 0;
 	margin-top: 0%;
 	margin-bottom: 0%;
-	background: black;
+	color:black;
+	background: #dac3bb;
 	overflow: hidden;
 }
 #murder-container .murder ul{
