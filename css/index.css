@@ -61,12 +61,14 @@
 
 
 /*index css*/
+html{
+	position: fixed;
+}
 #index-body{
 	background-image: url('../images/background2.jpg');
 	font-family: 'Kiwi Maru', serif;
 	font-size: 1.1em;
 	color: white;
-	position:fixed;
 }
 
 #index-header{
