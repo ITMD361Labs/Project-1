@@ -7,7 +7,6 @@
 
 #navbar-container{
 	width: 100%;
-	float: left;
 	position: relative;
 }
 
@@ -72,16 +71,10 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#deefff',GradientType=0 ); /* IE6-9 */
 	
 }
-#wrapper{
-	width: 960px;
-	margin: 3% auto 0% auto;
-}
 #main-resume{
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	margin: 3% auto 0% auto;
-	border-radius: 20px 20px 20px 20px; 
 	
 }
 
@@ -98,20 +91,18 @@
 
 /*resume css*/
 #contact{
-	width: 90%;
+	width: 940px;
 	padding: 10px;
-	margin: 5% 5% 5% 5%;
+	margin: 5% auto 3% auto;
+	height: 0 auto;
 	background: #b3d9ff;
 	text-align: center;	
 	border-radius: 20px;
-	float: left;
-	
-
 }
 
 #contact ul{
 	list-style-type: none;
-	margin: 1em 0;
+	margin: 30px 0;
 	padding:0;
 	background: #b3d9ff;
 }
@@ -122,11 +113,10 @@
 	text-decoration: underline;
 }	
 #objective{
-	float: left;
-	width: 90%;
+	width: 940px;
 	padding: 10px;
 	border-radius: 20px;
-	margin: 5% 5% 5% 5%;
+	margin: 0% auto 3% auto;
 	background: #b3d9ff;
 	text-align:center;
 }
