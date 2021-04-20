@@ -1,14 +1,10 @@
 #wrapper {
-  width: 850px;
-  height: 700px;
-  background-color: lavender;
-  margin: 0 auto;
-  overflow:hidden;
+  	background-color: lavender;
 }
-#canvas{
-	width: 700px;
-	height: 500px;
+#map{
+	width: 850px;
+	height: 700px;
 	background-color: #ccc;
-	margin: 30px auto;
+	margin: 50px auto;
 
 }
