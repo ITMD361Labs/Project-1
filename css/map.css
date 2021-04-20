@@ -5,7 +5,13 @@
   width: 100%;
   /* The width is the width of the web page 
 }*/
-
+h1{
+	text-align:center;
+	width: 400px;
+	background: lightskyblue;
+	margin: 0 auto;
+	border: 3px solid midnightblue;
+}
 #wrapper {
  	width: 850px;
   	height: 600px;
@@ -19,5 +25,6 @@
 	height: 500px;
 	background-color: steelblue;
 	margin: 30px auto;
+	border: 5px solid black;
 
 }
