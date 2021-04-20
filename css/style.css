@@ -72,15 +72,15 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#deefff',GradientType=0 ); /* IE6-9 */
 	
 }
-
+#wrapper{
+	width: 960px;
+	margin: 3% auto 0% auto;
+}
 #main-resume{
-	float: right;
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	background-color: #E0FFFF;
-	margin: 0% 10% 0% 10%;
-	border: 5px solid gray;
+	margin: 3% auto 0% auto;
 	border-radius: 20px 20px 20px 20px; 
 	
 }
@@ -195,6 +195,8 @@
 	font-family: cursive;
 	text-decoration: underline;
 }
+
+
 
 
 
