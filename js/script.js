@@ -7,22 +7,40 @@ function initMap() {
 		center: orlando,
 	 	zoom: 11,
 	};
-
-
 	var myMap = new google.maps.Map(el, mapSettings);
+
+	/*Create first marker on the Orlando Downtown
+	 *Add event listener with an info window
+	 */
 	var marker = new google.maps.Marker({
 	  position: orlando,
 	  map: myMap,
 	  animation:google.maps.Animation.DROP
 	});
+
+	var orlandoString = 
+		"<h2> Top 10 Places to go to in Orlando</h2><ol> <li>Wizarding World of Harry Potter</li><li>Universal Island of Adventure</li><li>Disney's Animal Kingdom</li><li> Universal Studios Florida</li><li>Discovery Cove</li><li>Disney Springs</li><li>Magic Kingdom Park</li><Lake Rianhard</li><li>Epcot</li><li>Fun Spot America</li>"; 
+	var infoWindow = new google.maps.InfoWindow({
+		content: orlandoString
+	});
+	//add event listeners to mouse on and off the icon
+	google.maps.event.addListener(marker, 'click',function(){
+		infoWindow.open(myMap, marker);
+	});
+	
+	/* Add disney location
+	 * Resize icon
+	 * Add event listeners to provide info window for the universal resort
+	 */
+	//create disney location 
 	//scale disney image
 	var icon = {
 		url: "images/disney.jpeg",
 		scaledSize: new google.maps.Size(100,50)
 	};
-	
-	//create disney location 
+
 	var disney = {lat:28.384559737896573, lng: -81.56459180702294};
+
 	var marker_two = new google.maps.Marker({
 		position: disney,
 		map: myMap,
@@ -42,6 +60,12 @@ function initMap() {
 	google.maps.event.addListener(marker_two, 'mouseout', function(){
 		windowinfo.close(myMap,marker_two);
 	});
+
+	/* Add universal location
+	 * Create a togglebounce function to bounce only when the mouse is over the icon
+	 * Resize icon
+	 * Add event listeners to provide info window for the universal resort
+	 */
 
 	//make the markers drop not all at once
 	function toggleBounce(){ 
@@ -77,11 +101,7 @@ function initMap() {
 	google.maps.event.addListener(marker_three, 'mouseout', function(){
 		windowinfo_two.close(myMap,marker_three);
 	});
-	$("div").mouseover(function() {
-     $(this).css("box-shadow", "5px 5px 5px #555");
-  }).mouseleave(function(){
-    $(this).css("box-shadow", "0px 0px 0px #555");
- });
+	
 }
 
 google.maps.event.addDomListener(window, 'load', init);
