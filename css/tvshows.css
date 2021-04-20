@@ -76,7 +76,8 @@
 }
 /*introduction to the page*/
 #intro{
-	margin: 3% 10% 0% 10%;
+	width: 960;
+	margin: 0 auto;
 	padding: 10px;
 	border: 5px solid black;
 	text-align: center;	
