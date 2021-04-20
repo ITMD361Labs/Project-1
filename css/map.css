@@ -1,0 +1,15 @@
+#wrapper {
+ 	width: 850px;
+  	height: 700px;
+  	background-color: lavender;
+  	margin: 30px auto;
+  	overflow:hidden;
+  	border: 3px solid darkcyan;
+}
+#canvas{
+	width: 700px;
+	height: 500px;
+	background-color: steelblue;
+	margin: 30px auto;
+
+}

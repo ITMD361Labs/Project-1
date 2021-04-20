@@ -1,4 +1,4 @@
 
-# Project-2
-Project 2 : Using HTML and Implementing CSS
+# Project-3
+Project 3 : Implementing Javascript
 
