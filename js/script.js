@@ -8,13 +8,13 @@ function initMap() {
 	 	zoom: 11,
 	};
 
+
 	var myMap = new google.maps.Map(el, mapSettings);
 	var marker = new google.maps.Marker({
 	  position: orlando,
 	  map: myMap,
 	  animation:google.maps.Animation.DROP
 	});
-
 	//scale disney image
 	var icon = {
 		url: "images/disney.jpeg",
@@ -29,6 +29,7 @@ function initMap() {
 		animation: google.maps.Animation.DROP,
 		icon: icon
 	});
+	marker_two.addListener('click',toggleBounce);
 
 	var disneyString = '<h2> Walt Disney World Resort</h2><p>Well-known attraction comprising large resorts, dining, shops & 4 theme parks with rides & shows.</p>' 
 	var windowinfo = new google.maps.InfoWindow({
@@ -42,10 +43,45 @@ function initMap() {
 		windowinfo.close(myMap,marker_two);
 	});
 
+	//make the markers drop not all at once
+	function toggleBounce(){ 
+   		if (marker_three.getAnimation() !== null) {
+    		marker_three.setAnimation(null);
+ 		} else {
+   		marker_three.setAnimation(google.maps.Animation.BOUNCE);
+   		}   		 		
+ 	}
+ 	var icon_two = {
+ 		url: "images/universal.jpeg",
+		scaledSize: new google.maps.Size(100,60)
+ 	}
 	//create universal location marker
 	var universal = {lat: 28.477244468862743, lng:-81.46714627419958};
+	var marker_three =  new google.maps.Marker({
+		position: universal,
+		map: myMap,
+		animation: google.maps.Animation.DROP,
+		icon: icon_two
+	});
+	marker_three.addListener('mouseover',toggleBounce);
+	marker_three.addListener('mouseout',toggleBounce);
 	
-	
+	var uniString = '<h2> Universal Studios Florida</h2><p>Famous, sprawling amusement park featuring movie-themed rides, attractions & entertainment.</p>' 
+	var windowinfo_two = new google.maps.InfoWindow({
+		content: uniString
+	});
+	//add event listeners to mouse on and off the icon
+	google.maps.event.addListener(marker_three, 'mouseover',function(){
+		windowinfo_two.open(myMap, marker_three);
+	});
+	google.maps.event.addListener(marker_three, 'mouseout', function(){
+		windowinfo_two.close(myMap,marker_three);
+	});
+	$("div").mouseover(function() {
+     $(this).css("box-shadow", "5px 5px 5px #555");
+  }).mouseleave(function(){
+    $(this).css("box-shadow", "0px 0px 0px #555");
+ });
 }
 
 google.maps.event.addDomListener(window, 'load', init);
