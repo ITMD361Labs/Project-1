@@ -1,28 +1,31 @@
 function initMap() {
 	//location of orlando
-	const orlando = { lat: 28.532750418214206, lng: -81.38378947662801};
+	var el = document.getElementById('map');
+	var orlando = { lat: 28.532750418214206, lng: -81.38378947662801};
 	//zoomed in onto the city 
-	const map = new google.maps.Map(document.getElementById("map"), {
-	  zoom: 11,
-	  center: orlando,
-	});
+	var mapSettings = {
+		center: orlando,
+	 	zoom: 11,
+	};
 
-	
-	const marker = new google.maps.Marker({
+	var myMap = new google.maps.Map(el, mapSettings);
+	var marker = new google.maps.Marker({
 	  position: orlando,
-	  map: map,
+	  map: myMap,
+	  animation:google.maps.Animation.DROP
 	});
 
-	//scale image
+	//scale disney image
 	var icon = {
 		url: "images/disney.jpeg",
-		scaledSize: new google.maps.Size(100,50),
+		scaledSize: new google.maps.Size(100,50)
 	};
+	
 	//create disney location 
-	const disney = {lat:28.384559737896573, lng: -81.56459180702294};
-	const markertwo = new google.maps.Marker({
+	var disney = {lat:28.384559737896573, lng: -81.56459180702294};
+	var marker_two = new google.maps.Marker({
 		position: disney,
-		map: map,
+		map: myMap,
 		animation: google.maps.Animation.DROP,
 		icon: icon
 	});
@@ -31,13 +34,18 @@ function initMap() {
 	var windowinfo = new google.maps.InfoWindow({
 		content: disneyString
 	});
+	//add event listeners to mouse on and off the icon
+	google.maps.event.addListener(marker_two, 'mouseover',function(){
+		windowinfo.open(myMap, marker_two);
+	});
+	google.maps.event.addListener(marker_two, 'mouseout', function(){
+		windowinfo.close(myMap,marker_two);
+	});
 
-	google.maps.event.addListener(markertwo, 'mouseover',function(){
-		windowinfo.open(map, markertwo);
-	});
-	google.maps.event.addListener(markertwo, 'mouseout', function(){
-		windowinfo.close(map,markertwo);
-	});
+	//create universal location marker
+	var universal = {lat: 28.477244468862743, lng:-81.46714627419958};
+	
+	
 }
 
 google.maps.event.addDomListener(window, 'load', init);
