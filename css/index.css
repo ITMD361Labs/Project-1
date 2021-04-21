@@ -142,7 +142,7 @@
 /*float images and change sizes*/
 #games img{
 	width: 80%;
-	height: 0 auto;
+	height: auto;
 	margin: 0% 10% 0% 10%;
 	box-shadow: 0 4px 4px 0 white;
 } 
