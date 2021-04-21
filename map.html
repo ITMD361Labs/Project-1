@@ -1,17 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <link rel="stylesheet" href="css/map.css">
-  <link rel="stylesheet" href="css/reset.css">
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"async defer></script>
-  <script type="text/javascript" src="js/script.js"></script>
-</head>
-<body>
-  <div id="wrapper">
-    <div id="map"></div>
-  </div>
-</body>
+<html>
+  <head>
+    <title>Add Map</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/map.css">
+    <link rel = "stylesheet" href = "sfarcheryblack_regular_macroman/stylesheet.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap" rel="stylesheet">
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <header id = "index-header" class = "container">
+      <nav id = "main-navbar">
+        <div id = "navbar-container">
+          <ul>
+            <li><a href="resume.html">Resume</a></li>
+            <li><a href= "#">PCGames</a></li>
+            <li><a href="tvshows.html">TvShows</a></li>
+            <li id = "onpage"><a href="map.html">Map</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <h1>Orlando Tourism Location</h3>
+    <!--The div element for the map -->
+    <div id = "wrapper">
+      <div id="map"></div>
+    </div>
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAl7-DnGlElcaXlOTn_9bPcSbZ1Q2Ypqso&callback=initMap">
+    </script>  
+  </body>
 </html>

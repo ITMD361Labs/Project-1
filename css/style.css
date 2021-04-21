@@ -7,7 +7,6 @@
 
 #navbar-container{
 	width: 100%;
-	float: left;
 	position: relative;
 }
 
@@ -72,23 +71,18 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#deefff',GradientType=0 ); /* IE6-9 */
 	
 }
-
 #main-resume{
-	float: right;
 	color:#000033;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.2em;
-	background-color: #E0FFFF;
-	margin: 0% 10% 0% 10%;
-	border: 5px solid gray;
-	border-radius: 20px 20px 20px 20px; 
-	
+	width: 960px;
+	margin: 0 auto;	
 }
 
 #main-resume p{
 	text-align:left;
 	font-weight: bold;
-	padding: 0 0 0 10px;	
+	padding: 0 0 10px 0;	
 }
 
 #main-resume ul li a:hover{
@@ -98,20 +92,17 @@
 
 /*resume css*/
 #contact{
-	width: 90%;
-	padding: 10px;
-	margin: 5% 5% 5% 5%;
+	width: 100%
+	padding: 10px 10px 10px ;
+	height: 0 auto;
 	background: #b3d9ff;
 	text-align: center;	
 	border-radius: 20px;
-	float: left;
-	
-
 }
 
 #contact ul{
 	list-style-type: none;
-	margin: 1em 0;
+	margin: 30px;
 	padding:0;
 	background: #b3d9ff;
 }
@@ -122,11 +113,10 @@
 	text-decoration: underline;
 }	
 #objective{
-	float: left;
-	width: 90%;
+	width: 98%;
 	padding: 10px;
+	height: 0 auto;
 	border-radius: 20px;
-	margin: 5% 5% 5% 5%;
 	background: #b3d9ff;
 	text-align:center;
 }
@@ -134,8 +124,8 @@
 /*first column css*/
 #experience{
 	text-align: center;
-	margin: 0 5%;
-	width: 40%;
+	margin: 20px 50px 20px 0px;
+	width: 550px;
 	float: left;
 	padding: 0 10px 0 0;
 	background: #b3d9ff;
@@ -167,8 +157,8 @@
 /*second column css*/
 #second-column{
 	text-align:center;
-	margin: 0 0 0 5%;
-	width: 40%;
+	margin: 20px 0px 20px 0px ;
+	width: 340px;
 	float: left;
 	padding: 0 10px 0 0;
 	background: #b3d9ff;
@@ -196,11 +186,50 @@
 	text-decoration: underline;
 }
 
+@media screen and (max-width:800px) {
 
+	#main-navbar{
+		font-size: 1.5em;
+		overflow: hidden;
+	}	
+	#main-resume{
+		font-size: 1em;
+		width: 600px;
+	}
+	#experience{
+		width: 350px;
+		margin: 20px 30px 20px 0px;
+	}
+	#second-column{
+		width:190px;
+		margin: 20px 0px 20px 0px;
+	}
+}
+@media screen and (max-width:320px) {
 
+	#main-navbar{
+		font-size: 1em;
+		overflow: hidden;
+	}	
+	#main-resume{
+		font-size: 0.5em;
+		width: 100%;
+	}
+	#contact{
+		margin: 20px 0px 0px 0px;
+	}
+	#objective{
+		margin: 0px 0px 20px 0px;
+	}
 
-
-
-
-
-
+	#experience{
+		float:none;
+		width: 250px;
+		margin: 0px auto 20px auto;
+	}
+	#second-column{
+		float:none;
+		width:150px;
+		margin: 20px auto 20px auto;
+	}
+}

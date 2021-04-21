@@ -103,7 +103,7 @@
 #fortnite-container{
 	background-color: #FFD700;
 	padding: 20px;
-	margin:0% 5% 0% 5% ;
+	margin:0% 5% 0% 5%  ;
 }
 
 #csgo-container{
@@ -124,7 +124,8 @@
 	font-size: 2em;
 	width: 90%;
 	padding:10px 0 10px 0;
-	margin: 0% 5% 0% 5%;
+	margin: 5% 5% 0% 5%;
+	border-radius: 10px 10px 0px 0px;
 	background: #2d2d86;
 	color: white;
 }
@@ -133,7 +134,7 @@
 	text-align: center;
 	width: 90%;
 	padding:5px 0 5px 0;
-	margin:0% 5% 0% 5%; 
+	margin: 0% 5% 0% 5%;
 	background: #6600cc;
 	color: white;
 }
@@ -141,9 +142,8 @@
 /*float images and change sizes*/
 #games img{
 	width: 80%;
-	height: 400px;
-	margin: 5% 10% 5% 10%;
-	float: left;
+	height: 0 auto;
+	margin: 0% 10% 0% 10%;
 	box-shadow: 0 4px 4px 0 white;
 } 
 
