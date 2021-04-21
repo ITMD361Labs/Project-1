@@ -8,6 +8,7 @@
 
 #navbar-container{
 	width: 100%;
+	margin: 0;
 	float: left;
 	position: relative;
 }
@@ -142,9 +143,8 @@
 /*float images and change sizes*/
 #games img{
 	width: 80%;
-	height: 400px;
-	margin: 5% 10% 5% 10%;
-	float: left;
+	height: 0 auto;
+	margin: 0% 10% 0% 10%;
 	box-shadow: 0 4px 4px 0 white;
 } 
 
